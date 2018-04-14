@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# NeoHackathon
-
-1. Need an MVP (Minimum Viable Product)
-2. Should be developed and able to demonstrate on NEO Blockchain Network
-3. POWERPOINT Presentation
-4.
-=======
 ### Requirements
 
 Usage requires Python 3.6+
@@ -67,4 +59,3 @@ In neo-python prompt:
 testinvoke {contract_hash} circulation []
 testinvoke {contract_hash} token_sold []
 ```
->>>>>>> Finish
